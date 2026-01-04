@@ -31,8 +31,8 @@ console.log("Undefined assigned:", undefinedAssignedDemo);
 
 // Object:
 const objectDemo = {
-  dance: "Mambo",
-  number: 5,
+   dance: "Mambo",
+   number: 5,
 };
 console.log("Object:", objectDemo);
 

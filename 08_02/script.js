@@ -5,14 +5,14 @@
 
 // Function declaration:
 function doSomeMath(a, b) {
-  let c = a + b;
-  return c;
+   let c = a + b;
+   return c;
 }
 
 // Function expression:
 const doMoreMath = function (a = 3, b = 2) {
-  let c = a * b;
-  return c;
+   let c = a * b;
+   return c;
 };
 
 console.log("Do some math:", doSomeMath(5, 6));

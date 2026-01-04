@@ -10,9 +10,9 @@ let stuffList = document.createElement("ul");
 
 // forEach() array method
 stuff.forEach((item) => {
-  let listItem = document.createElement("li");
-  listItem.innerHTML = item;
-  stuffList.append(listItem);
+   let listItem = document.createElement("li");
+   listItem.innerHTML = item;
+   stuffList.append(listItem);
 });
 
 article.append(stuffList)

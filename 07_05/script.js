@@ -9,13 +9,13 @@
  */
 
 const deskArray = [
-  "pen",
-  "camera",
-  "phone",
-  "notebook",
-  "headphones",
-  "lightbulb",
-  "usb drive",
+   "pen",
+   "camera",
+   "phone",
+   "notebook",
+   "headphones",
+   "lightbulb",
+   "usb drive",
 ];
 console.log("Original array:", deskArray);
 

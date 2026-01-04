@@ -11,8 +11,8 @@ document.querySelector(".left .color-value").innerHTML = color;
 color = "skyblue";
 
 function headingColor() {
-  color = "blue";
-  document.querySelector(".title").style.color = color;
+   color = "blue";
+   document.querySelector(".title").style.color = color;
 }
 
 headingColor();
